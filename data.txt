@@ -1,0 +1,2 @@
+punto: 3 comentario: Más o menos 
+punto: 1 comentario: Mal 
